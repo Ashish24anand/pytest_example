@@ -3,6 +3,6 @@
 ## pytest with make for CI/CD
 
 
-in ~/bashrc add source source ~/.venv/bin/activate to start with teminal with virtual env
+in ~/.bashrc add source source ~/.venv/bin/activate to start with teminal with virtual env
 
 in Makefile make ur to install, test, check formating and lint
